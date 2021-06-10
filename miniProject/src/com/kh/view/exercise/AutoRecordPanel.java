@@ -21,7 +21,6 @@ public class AutoRecordPanel extends JPanel {
 
 	private AutoRecordController autoRecordController;
 	
-	
 	public AutoRecordPanel() {
 
 		ImageIcon ss1 = new ImageIcon("./image/star1.png");
