@@ -18,6 +18,7 @@ public class InputRecordPanel extends JPanel {
 	
 	private InputRecordController inputRecordController;
 
+	
 	public InputRecordPanel() {
 		
 		ImageIcon ss1 = new ImageIcon("./image/star1.png");
