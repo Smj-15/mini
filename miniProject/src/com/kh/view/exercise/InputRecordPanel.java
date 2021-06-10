@@ -16,6 +16,7 @@ import com.kh.controller.exercise.InputRecordController;
 
 public class InputRecordPanel extends JPanel {
 	
+	
 	private InputRecordController inputRecordController;
 
 	
