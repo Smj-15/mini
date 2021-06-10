@@ -14,7 +14,6 @@ import com.kh.model.vo.User;
 import com.kh.view.main.Main;
 
 public class RecordMainPanel extends JPanel {
-
 	
 	private RecordMainController recordMainController;
 	private User user;

@@ -19,6 +19,7 @@ import com.kh.controller.exercise.AutoRecordController;
 
 public class AutoRecordPanel extends JPanel {
   
+	
 	private AutoRecordController autoRecordController;
 	
 	
